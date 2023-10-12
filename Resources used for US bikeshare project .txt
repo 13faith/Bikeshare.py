@@ -1,0 +1,8 @@
+Resources used:
+
+Website:
+pandas.pydata.org
+
+Books:
+"effective pandas" by matt harrison
+"python crash course" by eric matthes
